@@ -7,8 +7,8 @@ After cloned/downloaded the code, please run `npm install` in the terminal in or
 Next, run `npm start` to run the project in localhost.
 
 ## Project description
-The project is about building `custom pop-up modal` using ReactJS, TypeScript and CSS.\
-Users can click `close button` or click outside of the modal to close it
+The `custom pop-up modals` is built using ReactJS, TypeScript and CSS.\
+Users can click `close or cancel button` or click outside of the modal to close it.
 
 In this project, there are 4 kinds of modal which are:
 #### `Confirmation modal`
